@@ -1,6 +1,6 @@
 # 🚀  Romy Mama
 
-**`Junior Backend Developer | USTHB 2nd Year Student`**
+**`Junior Backend Developer | Reader`**
 
 Hello there! I'm a passionate Express developer with a strong love for building innovative and user-friendly web applications. With 1 years of experience in the field 
 
