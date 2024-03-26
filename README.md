@@ -1,4 +1,9 @@
-# 🚀  Romy Mama
+# 🚀  Romy Mama 
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Romy+Mama,+Here!+👋+#&center=true&size=30">
+  </a>
+</h1>
 
 **`Junior Backend Developer | Reader 📖`**
 
